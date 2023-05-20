@@ -1,2 +1,2 @@
 # electrical
-https://github.com/tanushkaa05/electrical.git
+https://www.tinkercad.com/things/9YxIWsIpzNN
